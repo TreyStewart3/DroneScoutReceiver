@@ -6,8 +6,8 @@
 import random
 
 #MQTT broker settings
-broker = 'myserver'
-port = 8883
+broker = '192.168.1.137'
+port = 1883
 topic = "#"
 
 # generate client ID with pub prefix randomly
